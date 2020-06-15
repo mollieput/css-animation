@@ -43,7 +43,7 @@ body {
   text-align: center;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
 	.rect, .textbox {
 		max-width: 100%;
 		height: auto;
